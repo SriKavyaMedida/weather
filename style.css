@@ -1,0 +1,19 @@
+body {
+    background-image: url(./background.png) ;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+#weather-app {
+    text-align: center;
+}
+
+#weatherDisplay {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
